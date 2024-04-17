@@ -1,0 +1,1 @@
+In this week's project, we will try to predict the upvote score of posts on the Hacker News website using just their titles. To do this, we will embed these titles using the architecture proposed by word2vec and then perform a regression task on the title embeddings and the scores.
